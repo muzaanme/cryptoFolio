@@ -7,8 +7,6 @@ import requests
 import json
 import time
 
-
-
 pycrypto = Tk()
 pycrypto.title("CryptoFolio")
 pycrypto.iconbitmap('D:\\PythonBasics\\Applications\\cryptoFolio\\favicon.ico')
